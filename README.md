@@ -151,7 +151,5 @@ For questions or support, reach out on Telegram: [https://t.me/edu2iq](https://t
 
 Thank you for using this project! 🚀
 
-```
 
-Let me know if you want me to generate the actual README file for you to download or add anything else!
-```
+
